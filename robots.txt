@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+User-agent: Scrapy
+Disallow: /
+
+User-agent: HTTrack
+Disallow: /
+
+User-agent: wget
+Disallow: /
+
+Sitemap: https://luxeleathers.netlify.app/sitemap.xml

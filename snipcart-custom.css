@@ -1,0 +1,41 @@
+/* Background for cart */
+.snipcart__cart {
+    background-color: #1a1a1a !important;
+    color: #ffffff !important;
+}
+
+/* Cart header */
+.snipcart__header {
+    background-color: #111 !important;
+    color: #ffffff !important;
+}
+
+/* Primary buttons in cart */
+.snipcart__button--primary {
+    background-color: #e63946 !important; /* red accent */
+    color: #ffffff !important;
+}
+
+/* Secondary buttons in cart */
+.snipcart__button--secondary {
+    background-color: #333 !important;
+    color: #ffffff !important;
+}
+
+/* Product names & prices */
+.snipcart__product__name,
+.snipcart__product__price {
+    color: #ffffff !important;
+}
+
+/* Remove white backgrounds on input fields */
+.snipcart__input {
+    background-color: #333 !important;
+    color: #fff !important;
+}
+
+/* Cart footer totals */
+.snipcart__totals {
+    background-color: #222 !important;
+    color: #fff !important;
+}
