@@ -26,4 +26,4 @@ https://luxeleathers.netlify.app
 <img width="1516" height="775" alt="image" src="https://github.com/user-attachments/assets/d90dc378-5c67-4617-b99d-c5b7d63e5c42" />
 
 ## 👨‍💻 Author
-Developed by [Your Name]
+Developed by Amira Iftikhar
